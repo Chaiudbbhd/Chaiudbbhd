@@ -18,9 +18,12 @@
 
 - 🌱 I’m currently learning **Devops and Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://chaiudbbhd.github.io/portfolio-student/](https://chaiudbbhd.github.io/portfolio-student/)
+- 👨‍💻 You can explore my complete portfolio at [https://chaiudbbhd.github.io/portfolio-student/](https://chaiudbbhd.github.io/portfolio-student/)
 
 - 📝 I regularly write articles on [https://voices-of-java-dev.onrender.com/](https://voices-of-java-dev.onrender.com/)
+
+-  check out my technical blog where I share insights, project experiences at  [https://blog-prasanna.onrender.com//](https://blog-prasanna.onrender.com//)
+
 
 - 💬 Ask me about **Spring FrameWork, Devops, MERN**
 
