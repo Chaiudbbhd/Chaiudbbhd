@@ -14,7 +14,7 @@
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 </p>
 
-- 🔭 I’m currently working on **🧾 WhisperDocs – Voice-to-Action Personal Task Manager**
+- 🔭 I’m currently working on **🧾 Code-Arena a battle platform for coding with friends**
 
 - 🌱 I’m currently learning **Devops and Kotlin**
 
